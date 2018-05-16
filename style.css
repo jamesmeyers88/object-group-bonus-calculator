@@ -1,0 +1,10 @@
+body {
+  background-image: url("bg-6-full.jpg");
+  background-repeat: repeat;
+  font-family: garamond;
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
